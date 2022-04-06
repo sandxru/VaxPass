@@ -5,6 +5,7 @@ import Navigation from "./Navigation";
 import App from "./App";
 import Search from "./Search";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Footer from "./Footer";
 
 ReactDOM.render(
 
@@ -14,6 +15,7 @@ ReactDOM.render(
       <Route path="/" element={<App />} />
       <Route path="/search" element={<Search />} />
       </Routes>
+      <Footer />
   </Router>,
 
   // <React.StrictMode>

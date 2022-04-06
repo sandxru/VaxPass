@@ -1,8 +1,8 @@
 .footer {
+  background-color: #bbd8ed;
   font-size: 20px;
   font-weight: 500;
-  position: absolute;
-  margin-top: 30vh;
+  margin-top: 10vh;
   transition: all 300ms all ease-in-out;
   right: 0;
 }

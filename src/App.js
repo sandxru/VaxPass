@@ -106,7 +106,7 @@ function App() {
               </div>
 
 
-              <Footer onLoad={console.log("Footer Loaded")} />
+              <Footer />
             </div>
           </div>
         </div>

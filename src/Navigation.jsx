@@ -1,6 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
+
+
 function Navigation() {
   return (
     <div className="navigation">
@@ -18,6 +20,8 @@ function Navigation() {
                 <NavLink className="nav-link" to="/search">
                   Search Records
                 </NavLink>
+
+                
               </li>
             </ul>
           </div>

@@ -4,7 +4,7 @@ function Login(props) {
     <div
       style={{
         margin: "0 auto",
-        paddingTop: "45vh",
+        paddingTop: "40vh",
       }}
     >
       {" "}

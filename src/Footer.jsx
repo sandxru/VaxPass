@@ -9,15 +9,12 @@ function Footer() {
           {/*coloumn1*/}
           <div className="col">
             <br  />
-            <h2>Stack 32</h2>
+            <h3>Stack 32</h3>
             <hr  />
             <ul className="list-unstyled">
-              <li>Sandaru</li>
-              <li>Anuja</li>
-              <li>Yaathaven</li>
-              <li>Dilshan</li>
-              <li>Rangitha</li>
+              <li>Sandaru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anuja &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yaathaven &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dilshan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rangitha</li>
             </ul>
+            <br  />
           </div>
         </div>
       </div>

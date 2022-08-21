@@ -1,0 +1,28 @@
+.footer {
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 30vh;
+  transition: all 300ms all ease-in-out;
+  right: 0;
+}
+
+.footer:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+.blockchainStack {
+  display: flex;
+  background-color: white;
+  width: fit-content;
+  padding: 7px;
+  border-radius: 10px;
+  color: black;
+  justify-content: center;
+  align-items: center;
+}
+.blockchainStack > img {
+  width: 40px;
+  object-fit: contain;
+  margin-left: 10px;
+}

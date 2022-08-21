@@ -1,7 +1,7 @@
 ## VaxPass
 A Blockchain based vaccination record system.
 
-### Build with
+### Built with
 - Solidity
 - Truffle Framework
 - Web3JS
